@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "title": "Nike",
+            "description": "latest boot",
+            "image": "https://i.pinimg.com/564x/18/f2/dd/18f2dd1b586fda3bf7d4da7305f2e6cc.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Nike",
+            "description": "latest boot",
+            "image": "https://i.pinimg.com/564x/18/f2/dd/18f2dd1b586fda3bf7d4da7305f2e6cc.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Nike",
+            "description": "latest boot",
+            "image": "https://i.pinimg.com/564x/18/f2/dd/18f2dd1b586fda3bf7d4da7305f2e6cc.jpg"
+        }
+    ]
+}
